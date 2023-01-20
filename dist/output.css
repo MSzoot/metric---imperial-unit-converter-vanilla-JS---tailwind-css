@@ -527,6 +527,11 @@ video {
   margin-bottom: 1.25rem;
 }
 
+.my-2 {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
 .mt-36 {
   margin-top: 9rem;
 }
@@ -557,6 +562,10 @@ video {
 
 .mt-2 {
   margin-top: 0.5rem;
+}
+
+.mb-2 {
+  margin-bottom: 0.5rem;
 }
 
 .flex {
@@ -849,4 +858,9 @@ video {
 .hover\:bg-red-300:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(252 165 165 / var(--tw-bg-opacity));
+}
+
+.hover\:bg-gray-300:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(209 213 219 / var(--tw-bg-opacity));
 }
